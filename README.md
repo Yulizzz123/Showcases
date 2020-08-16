@@ -1,9 +1,20 @@
 # Showcases
 
+-- Project Description --
 
-About this file
+The goal of this project was to build a game with python.
 
-The code of the game "hangman" is rendered in the following structure:
+I chose the game "hangman" as I used to play it frequently as a child.
+
+
+-- About this Repository --
+
+The repository contains the following files:
+1. README
+2. Hangman
+- game code
+
+The file "Hangman" follows the structure below:
 
 1 Code Snippets (steps of developing the code)
 1.1   Game preparation
@@ -16,7 +27,7 @@ The code of the game "hangman" is rendered in the following structure:
 2 Summary & Condension (combination of functions)
 
 
-HANGMAN - How to Play 
+-- HANGMAN - How to Play --
 
 1. Hangman is a game that can be played individually, in groups or with competing parties.
 
@@ -27,3 +38,17 @@ HANGMAN - How to Play
 5. If all letters are guessed, the execution is stalled.
 
 6. At 12 wrong guesses, the man is hanged and the game is over. 
+Project Description
+Write a short description of your project. Write 1-2 sentences about what what you chose to build and why.
+
+
+-- Workflow & Organization --
+
+Step 1: Before I started coding, I validated my understanding of the rules of the game, and clustered them according to 
+        a process sequence.  
+Step 2: I then prioritized the rules of the game, and chose the most important for an MVP:
+        These are to be able to select a letter as a player and match it with the letters of a word to be guessed.
+Step 3: After I completed coding the MVP, I added more functionalities, such as the abilitiy to choose between one 
+        or two players.
+
+
